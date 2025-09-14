@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/学习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "学习笔记"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "305135008d090f77",
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "README 的大纲"
             }
+          },
+          {
+            "id": "03d22ec5d8d4e61c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +176,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d45d0ce6a79a242",
+  "active": "36a564932286c908",
   "lastOpenFiles": [
-    "Notes/Note.md",
-    "未命名.base",
-    "README.md"
+    "README.md",
+    "Notes/学习笔记.md",
+    "未命名.base"
   ]
 }
