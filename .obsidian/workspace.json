@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Notes/学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "学习笔记 的大纲"
             }
           },
           {
@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,20 +179,24 @@
       "bases:创建新数据库": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "active": "36a564932286c908",
   "lastOpenFiles": [
+    "2025-09-19.md",
+    "Notes/学习笔记.md",
+    "README.md",
+    "未命名.canvas",
     "网络图_mermaid.md",
     "修正的网络图.md",
     "Notes/image.png",
     "Notes/img/Pasted image 20250914102220.png",
-    "Notes/学习笔记.md",
     "Notes/img/Pasted image 20250914102228.png",
     "Notes/img",
     "Pasted image 20250914100358.png",
-    "README.md",
     "未命名.base"
   ]
 }

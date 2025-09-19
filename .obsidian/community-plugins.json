@@ -1,5 +1,7 @@
 [
   "yet-another-obsidian-synchronizer",
   "obsidian-git",
-  "github-sync"
+  "github-sync",
+  "obsidian-import-json",
+  "markdown-table-editor"
 ]
