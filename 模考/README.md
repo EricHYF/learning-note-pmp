@@ -48,3 +48,5 @@
 【1120-每日一练】：https://www.wenjuan.ltd/s/EjA3euR/#
 
 【1121-每日一练】：https://www.wenjuan.ltd/s/EVzaqmf/#
+
+【1124-每日一练】：https://www.wenjuan.ltd/s/jeE7BvJ/#
