@@ -22,16 +22,23 @@ Huyufei@2025
 
 
 
-基金会官网
+基金会官网：
 https://event.chinapmp.cn/
-Zy123456@ 
+
+考试分析：
+https://ccrs.pmi.org/reporting/examanalysis
+
+q8666@163.com
+Zy123456@
 
 【腾讯文档】2511期中英文账号信息公示--李苗苗
 https://docs.qq.com/sheet/DZGVOc2VmQ01sUVhS?tab=BB08J2
 
 
 基金会账号/密码：
+
 >HYF17610823782
+
 >HYF17610823782
 
 ## 2025 年 11 月考试
